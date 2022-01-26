@@ -1,0 +1,10 @@
+BUILD
+
+docker build -t vuejs-cookbook/dockerize-vuejs-app .
+
+
+Levantar server
+
+npm run serve
+
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f4e830db-0b19-486f-bd5b-30363b00de1d" name="vueAmazonDesarrollos">
+        <fileTransfer accessType="SFTP" host="ec2-35-180-188-227.eu-west-3.compute.amazonaws.com" port="22" sshConfigId="34c135a2-0950-4952-95f1-71741cd87e15" sshConfig="vueDesarrollosDuo" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
