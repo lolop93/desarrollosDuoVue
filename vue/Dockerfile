@@ -1,5 +1,5 @@
 
-FROM node:14.14.0
+FROM node:9.11.1-alpine
 
 WORKDIR /vue_app
 
