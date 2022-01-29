@@ -1,10 +1,12 @@
 <template>
-  <div id="nav">
+  <div id="nav" class="bg-red-500 p-4">
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link> |
     <router-link to="/ola">ola</router-link>
   </div>
   <router-view/>
+
+  <div class="bg-red-500 p-12 absolute bottom-0 w-full">Footer</div>
 </template>
 
 <style>
