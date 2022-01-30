@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf9c1db4-93d5-4e1b-8754-766625456c17" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/desarrollosDuoVue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="bf9c1db4-93d5-4e1b-8754-766625456c17" name="Default Changelist" comment="cosas">
+      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/InstaIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/LOGOO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/TwtIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/fbIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/logo1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/components/miFooter.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/vue/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +24,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,6 +42,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24FhaoFFdf2Y1wGG8ljAiVsQuyI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -44,15 +63,20 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vue/vue_app/src/assets" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jaime\PhpstormProjects\desarrollosDuoVue\vue\vue_app\src\assets" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jaime\PhpstormProjects\desarrollosDuoVue\vue\vue_app\src\components" />
+      <recent name="C:\Users\jaime\PhpstormProjects\desarrollosDuoVue\vue\vue_app\src\assets" />
       <recent name="C:\Users\Lolito\Documents\DesarrollosDuo\vue" />
     </key>
   </component>
@@ -66,6 +90,8 @@
       <updated>1643232309853</updated>
       <workItem from="1643232311349" duration="6290000" />
       <workItem from="1643239072649" duration="2132000" />
+      <workItem from="1643499585949" duration="596000" />
+      <workItem from="1643554277740" duration="13174000" />
     </task>
     <servers />
   </component>
@@ -82,7 +108,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -90,5 +115,9 @@
       <path value="$PROJECT_DIR$/vueDesarrollosDuo" />
       <path value="$PROJECT_DIR$/vue_app" />
     </ignored-roots>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

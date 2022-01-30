@@ -26,6 +26,8 @@ module.exports = {
       indigo: colors.indigo,
       purple: colors.violet,
       pink: colors.pink,
+      'duogreen': '#356134',
+      'duogrey' : '#353535',
     },
     spacing: {
       px: '1px',
@@ -429,6 +431,7 @@ module.exports = {
       '5/6': '83.333333%',
       full: '100%',
       screen: '100vh',
+      '100px': '100px'
     }),
     inset: (theme, { negative }) => ({
       auto: 'auto',
