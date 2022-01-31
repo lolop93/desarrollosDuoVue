@@ -4,7 +4,7 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/sobre">Sobre Nosotros</router-link> |
       <router-link to="/oni">お兄ちゃん</router-link> |
-      <router-link to="/ensaimada">Ensaimada</router-link>
+      <router-link to="/ensaimada">Ensaaimada</router-link>
     </div>
   </div>
 </template>
