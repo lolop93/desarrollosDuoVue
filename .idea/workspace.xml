@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf9c1db4-93d5-4e1b-8754-766625456c17" name="Default Changelist" comment="cosas">
-      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/InstaIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/LOGOO.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/TwtIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/fbIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/logo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/pattern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/components/miFooter.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/components/miForm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/components/miHeader.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/vue_app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/vue_app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue/vue_app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/views/About.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue/vue_app/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/views/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/vue_app/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +42,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -67,7 +58,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -92,6 +83,9 @@
       <workItem from="1643239072649" duration="2132000" />
       <workItem from="1643499585949" duration="596000" />
       <workItem from="1643554277740" duration="13174000" />
+      <workItem from="1643614890213" duration="38000" />
+      <workItem from="1643614939984" duration="114000" />
+      <workItem from="1643617090405" duration="4409000" />
     </task>
     <servers />
   </component>

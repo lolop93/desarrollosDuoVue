@@ -3,21 +3,16 @@
 
 
   <div class="total flex flex-col h-full">
-    <div class="header w-full h-30" style="flex:0 0 auto">
-
-      <div id="nav" class="bg-duogreen p-4">
-        <router-link to="/"></router-link>
-        <router-link to="/sobre">Sobre Nosotros</router-link> |
-        <router-link to="/about">About</router-link> |
-        <router-link to="/ola">ola</router-link>
-      </div>
-
-    </div>
+    <mi-header></mi-header>
 
     <div class="cuerpo w-full " style="flex:1 0 auto">
+      <miForm></miForm>
       <router-view/>
     </div>
-    <button @click="verFooter ? verFooter=false : verFooter=true" class=" bg-duogreen text-white h-6">FOOTER</button>
+    <div class="flex content-center justify-center">
+      <button @click="verFooter ? verFooter=false : verFooter=true" class=" bg-green-500 hover:bg-green-700 text-white h-6 w-24">Footer</button>
+    </div>
+
 
     <miFooter v-if="verFooter"></miFooter>
 
@@ -57,8 +52,10 @@ html{
 </style>
 <script>
 import miFooter from "./components/miFooter";
+import MiForm from "./components/miForm";
+import MiHeader from "./components/miHeader";
 export default {
-  components: {miFooter},
+  components: {MiHeader, MiForm, miFooter},
   data(){
     return{
       verFooter: true,
