@@ -1,12 +1,17 @@
 <template>
-  <div class="flex bg-green-500">
-    <div id="nav" class="bg-green-500 p-4">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/sobre">Sobre Nosotros</router-link> |
-      <router-link to="/oni">お兄ちゃん</router-link> |
-      <router-link to="/ensaimada">Ensdaaimada</router-link>
+  <div class="flex w-full bg-duogreen">
+    <div class="flex w-1/2 justify-start content-center my-5 mx-10">
+      <img class="logo" src="../assets/lohohorizontal.png" alt="logo">
     </div>
+      <div id="nav" class=" flex justify-end w-1/2 bg-duogreen p-4 m-5">
+        <router-link to="/">Home</router-link> |
+        <router-link to="/sobre">Sobre Nosotros</router-link> |
+        <router-link to="/about">お兄ちゃん</router-link> |
+        <router-link to="/ensaimada">Ensdaaimada</router-link>
+      </div>
+
   </div>
+
 </template>
 
 <script>
@@ -16,5 +21,9 @@ export default {
 </script>
 
 <style scoped>
+  .logo{
+    width: 162px;
+    height: 94px;
+  }
 
 </style>

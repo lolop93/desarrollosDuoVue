@@ -26,8 +26,9 @@ module.exports = {
       indigo: colors.indigo,
       purple: colors.violet,
       pink: colors.pink,
-      'duogreen': '#356134',
-      'duogrey' : '#353535',
+      'duogreen': '#4e8831',
+      'duogrey' : '#7a7a7a',
+
     },
     spacing: {
       px: '1px',

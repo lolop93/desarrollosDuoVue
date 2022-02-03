@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf9c1db4-93d5-4e1b-8754-766625456c17" name="Default Changelist" comment="cosas">
-      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/components/miForm.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/components/miHeader.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/duoCodeLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/isoLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/lohohorizontal.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/components/miHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/components/miHeader.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue/vue_app/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/views/About.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -86,6 +88,8 @@
       <workItem from="1643614890213" duration="38000" />
       <workItem from="1643614939984" duration="114000" />
       <workItem from="1643617090405" duration="4409000" />
+      <workItem from="1643733062709" duration="653000" />
+      <workItem from="1643908023607" duration="6312000" />
     </task>
     <servers />
   </component>
