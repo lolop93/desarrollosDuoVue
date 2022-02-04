@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf9c1db4-93d5-4e1b-8754-766625456c17" name="Default Changelist" comment="cosas">
-      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/duoCodeLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/isoLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/lohohorizontal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/components/homepage.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/components/miHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/components/miHeader.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/views/About.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/vue_app/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/tailwind.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/App.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,8 +85,17 @@
       <workItem from="1643614939984" duration="114000" />
       <workItem from="1643617090405" duration="4409000" />
       <workItem from="1643733062709" duration="653000" />
-      <workItem from="1643908023607" duration="6312000" />
+      <workItem from="1643908023607" duration="6328000" />
+      <workItem from="1643935271058" duration="2186000" />
     </task>
+    <task id="LOCAL-00001" summary="cosas">
+      <created>1643920088190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643920088190</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +118,8 @@
       <path value="$PROJECT_DIR$/vueDesarrollosDuo" />
       <path value="$PROJECT_DIR$/vue_app" />
     </ignored-roots>
+    <MESSAGE value="cosas" />
+    <option name="LAST_COMMIT_MESSAGE" value="cosas" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -6,12 +6,10 @@
     <mi-header></mi-header>
 
     <div class="cuerpo w-full " style="flex:1 0 auto">
-      <miForm></miForm>
-      <router-view/>
+      <homepage></homepage>
+
     </div>
-    <div class="flex content-center justify-center">
-      <button @click="verFooter ? verFooter=false : verFooter=true" class=" bg-green-500 hover:bg-green-700 text-white h-6 w-24">Footer</button>
-    </div>
+
 
 
     <miFooter v-if="verFooter"></miFooter>
@@ -52,10 +50,10 @@ html{
 </style>
 <script>
 import miFooter from "./components/miFooter";
-import MiForm from "./components/miForm";
 import MiHeader from "./components/miHeader";
+import homepage from "./components/homepage";
 export default {
-  components: {MiHeader, MiForm, miFooter},
+  components: {MiHeader, homepage, miFooter},
   data(){
     return{
       verFooter: true,
