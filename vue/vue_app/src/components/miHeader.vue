@@ -6,8 +6,10 @@
       <div id="nav" class=" flex justify-end w-1/2 bg-duogreen p-4 m-5">
         <router-link to="/">Home</router-link> |
         <router-link to="/sobre">Sobre Nosotros</router-link> |
-        <router-link to="/about">お兄ちゃん</router-link> |
-        <router-link to="/ensaimada">Ensdaaimada</router-link>
+        <router-link to="/contacto">お兄ちゃん</router-link> |
+        <router-link to="/equipo">Equipo</router-link> |
+        <router-link to="/portfolio">Portfolio</router-link> |
+        <router-link to="/servicios">Servicios</router-link>
       </div>
 
   </div>
