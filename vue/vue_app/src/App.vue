@@ -6,10 +6,9 @@
     <mi-header></mi-header>
 
     <div class="cuerpo w-full " style="flex:1 0 auto">
-      <homepage></homepage>
 
     </div>
-
+    <router-view/>
 
 
     <miFooter v-if="verFooter"></miFooter>
@@ -51,9 +50,8 @@ html{
 <script>
 import miFooter from "./components/miFooter";
 import MiHeader from "./components/miHeader";
-import homepage from "./components/homepage";
 export default {
-  components: {MiHeader, homepage, miFooter},
+  components: {MiHeader, miFooter},
   data(){
     return{
       verFooter: true,
