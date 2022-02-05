@@ -1,5 +1,5 @@
 <template>
-  <div class=" cuerpo bg-duogrey flex w-full justify-center items-center">
+  <div class=" contenedor bg-duogrey flex w-full justify-center items-center">
     <div class="pattern w-full"></div>
       <img src="../assets/fbIcon.png" class="w-10 h-10 mx-5 ">
       <img src="../assets/TwtIcon.png" class="w-10 h-10 mx-5 ">
@@ -21,7 +21,7 @@ export default {
 </script>
 
 <style scoped>
-  .cuerpo{
+  .contenedor{
     height: 6.25rem;
   }
   @keyframes footer {

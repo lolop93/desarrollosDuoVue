@@ -7,8 +7,9 @@
 
     <div class="cuerpo w-full " style="flex:1 0 auto">
 
+      <router-view/>
+
     </div>
-    <router-view/>
 
 
     <miFooter v-if="verFooter"></miFooter>

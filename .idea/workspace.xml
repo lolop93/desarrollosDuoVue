@@ -4,7 +4,7 @@
     <list default="true" id="bf9c1db4-93d5-4e1b-8754-766625456c17" name="Default Changelist" comment="template homepage creado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue/vue_app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/components/miFooter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/components/miFooter.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +88,7 @@
       <workItem from="1643908023607" duration="6328000" />
       <workItem from="1643935271058" duration="2515000" />
       <workItem from="1643976907748" duration="1989000" />
+      <workItem from="1644060026089" duration="161000" />
     </task>
     <task id="LOCAL-00001" summary="cosas">
       <created>1643920088190</created>
