@@ -4,12 +4,15 @@
       <img class="logo" src="../assets/lohohorizontal.png" alt="logo">
     </div>
       <div id="nav" class=" flex gap-10 justify-end w-1/2 bg-duogreen p-4 m-5">
-        <router-link to="/">Home</router-link>
-        <router-link to="/about">Sobre Nosotros</router-link>
-        <router-link to="/contacto">Contacto</router-link>
-        <router-link to="/equipo">Equipo</router-link>
-        <router-link to="/portfolio">Portfolio</router-link>
-        <router-link to="/servicios">Servicios</router-link>
+        <div class="menu-item"><router-link to="/">Home</router-link></div>
+        <div class="menu-item"><router-link to="/about">Sobre Nosotros</router-link></div>
+        <div class="menu-item"><router-link to="/contacto">Contacto</router-link></div>
+        <div class="menu-item"><router-link to="/equipo">Equipo</router-link></div>
+        <div class="menu-item"><router-link to="/portfolio">Portfolio</router-link></div>
+        <div class="menu-item">
+          <router-link to="/servicios">Servicios</router-link>
+          <div class="submenu-item"></div>
+        </div>
       </div>
 
   </div>

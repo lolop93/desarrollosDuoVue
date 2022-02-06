@@ -3,7 +3,6 @@
   <div class="main w-full">
     <div class="titulo flex content-center justify-center flex-col w-full h-1/6 bg-red-500 mt-10">
       <h1 class="text-white font-extrabold italic text-7xl">Eslogan</h1>
-
     </div>
 
     <div class="contenedor-cards w-full h-5/6 bg-blue-600 p-28">
@@ -18,13 +17,8 @@
         <div class="bg-white"></div>
       </div>
 
-
-
     </div>
   </div>
-
-
-
 
 </div>
 </template>
