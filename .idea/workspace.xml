@@ -4,7 +4,6 @@
     <list default="true" id="bf9c1db4-93d5-4e1b-8754-766625456c17" name="Default Changelist" comment="cuerpo fuera">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue/vue_app/src/components/miHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/components/miHeader.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/views/About.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +23,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -90,6 +88,7 @@
       <workItem from="1643935271058" duration="2515000" />
       <workItem from="1643976907748" duration="1989000" />
       <workItem from="1644060026089" duration="3127000" />
+      <workItem from="1644140631703" duration="1712000" />
     </task>
     <task id="LOCAL-00001" summary="cosas">
       <created>1643920088190</created>

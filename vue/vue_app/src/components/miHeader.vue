@@ -9,13 +9,13 @@
         <div class="menu-item"><router-link to="/contacto">Contacto</router-link></div>
         <div class="menu-item"><router-link to="/equipo">Equipo</router-link></div>
         <div class="menu-item"><router-link to="/portfolio">Portfolio</router-link></div>
-        <div class="menu-item border-green-600 border-2" @mouseover="verMenu = true" @mouseleave="verMenu = false">
+        <div class="menu-item" @mouseover="verMenu = true" @mouseleave="verMenu = false">
           <router-link to="/servicios">Servicios</router-link>
-          <div class="submenu-item"  v-if="verMenu">
-            <div class="h-5 w-full bg-green-600 mb-2">mierda</div>
-            <div class="h-5 w-full bg-green-600">mierda</div>
-            <div class="h-5 w-full bg-green-600">mierda</div>
-            <div class="h-5 w-full bg-green-600 ">mierda</div>
+          <div class="submenu-item w-full absolute top-8"  v-if="verMenu">
+            <div class="w-full bg-gray-800 text-white p-1 mb-2">mierda</div>
+            <div class="w-full bg-gray-800 text-white p-1 mb-2">mierda</div>
+            <div class="w-full bg-gray-800 text-white p-1 mb-2">mierda</div>
+            <div class="w-full bg-gray-800 text-white p-1">mierda</div>
           </div>
         </div>
       </div>
@@ -48,7 +48,6 @@ export default {
   }
   #nav a:hover{
     color: white;
-    font-size: 18px;
   }
 
   .menu-item {
@@ -57,11 +56,6 @@ export default {
     align-items: center;
     justify-content: center;
   }
-  .submenu-item{
-    position: absolute;
-    height: 20px;
-    width: 100%;
-    top: 2rem ;
-  }
+
 
 </style>
