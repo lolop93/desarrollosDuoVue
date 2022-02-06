@@ -9,13 +9,13 @@
         <div class="menu-item"><router-link to="/contacto">Contacto</router-link></div>
         <div class="menu-item"><router-link to="/equipo">Equipo</router-link></div>
         <div class="menu-item"><router-link to="/portfolio">Portfolio</router-link></div>
-        <div class="menu-item" @mouseover="verMenu = true" @mouseleave="verMenu = false">
+        <div class="menu-item border-green-600 border-2" @mouseover="verMenu = true" @mouseleave="verMenu = false">
           <router-link to="/servicios">Servicios</router-link>
-          <div class="submenu-item" v-if="verMenu">
-            <div class="h-5 w-full bg-green-600 mb-0.5 mt-0.5">mierda</div>
-            <div class="h-5 w-full bg-green-600 mb-0.5 mt-0.5">mierda</div>
-            <div class="h-5 w-full bg-green-600 mb-0.5 mt-0.5">mierda</div>
-            <div class="h-5 w-full bg-green-600 mb-0.5 mt-0.5">mierda</div>
+          <div class="submenu-item"  v-if="verMenu">
+            <div class="h-5 w-full bg-green-600 ">mierda</div>
+            <div class="h-5 w-full bg-green-600 ">mierda</div>
+            <div class="h-5 w-full bg-green-600 ">mierda</div>
+            <div class="h-5 w-full bg-green-600 ">mierda</div>
           </div>
         </div>
       </div>
@@ -59,9 +59,8 @@ export default {
   }
   .submenu-item{
     position: absolute;
-    height: 20px;
     width: 100%;
-    margin-top: 4rem ;
+    padding-top: 8rem ;
   }
 
 </style>
