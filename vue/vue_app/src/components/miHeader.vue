@@ -12,9 +12,9 @@
         <div class="menu-item border-green-600 border-2" @mouseover="verMenu = true" @mouseleave="verMenu = false">
           <router-link to="/servicios">Servicios</router-link>
           <div class="submenu-item"  v-if="verMenu">
-            <div class="h-5 w-full bg-green-600 ">mierda</div>
-            <div class="h-5 w-full bg-green-600 ">mierda</div>
-            <div class="h-5 w-full bg-green-600 ">mierda</div>
+            <div class="h-5 w-full bg-green-600 mb-2">mierda</div>
+            <div class="h-5 w-full bg-green-600">mierda</div>
+            <div class="h-5 w-full bg-green-600">mierda</div>
             <div class="h-5 w-full bg-green-600 ">mierda</div>
           </div>
         </div>
@@ -59,8 +59,9 @@ export default {
   }
   .submenu-item{
     position: absolute;
+    height: 20px;
     width: 100%;
-    padding-top: 8rem ;
+    top: 2rem ;
   }
 
 </style>
