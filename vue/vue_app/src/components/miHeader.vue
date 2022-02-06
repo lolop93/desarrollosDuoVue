@@ -11,6 +11,7 @@
         <div class="menu-item"><router-link to="/portfolio">Portfolio</router-link></div>
         <div class="menu-item" @mouseover="verMenu = true" @mouseleave="verMenu = false">
           <router-link to="/servicios">Servicios</router-link>
+          <i class="fas fa-arrow-circle-down"></i>
           <div class="submenu-item w-full absolute top-8"  v-if="verMenu">
             <div class="w-full bg-gray-800 text-white p-1 mb-2">mierda</div>
             <div class="w-full bg-gray-800 text-white p-1 mb-2">mierda</div>
