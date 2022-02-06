@@ -9,9 +9,14 @@
         <div class="menu-item"><router-link to="/contacto">Contacto</router-link></div>
         <div class="menu-item"><router-link to="/equipo">Equipo</router-link></div>
         <div class="menu-item"><router-link to="/portfolio">Portfolio</router-link></div>
-        <div class="menu-item">
+        <div class="menu-item" @mouseover="verMenu = true" @mouseleave="verMenu = false">
           <router-link to="/servicios">Servicios</router-link>
-          <div class="submenu-item"></div>
+          <div class="submenu-item" v-if="verMenu">
+            <div class="h-5 w-full bg-green-600 mb-0.5 mt-0.5">mierda</div>
+            <div class="h-5 w-full bg-green-600 mb-0.5 mt-0.5">mierda</div>
+            <div class="h-5 w-full bg-green-600 mb-0.5 mt-0.5">mierda</div>
+            <div class="h-5 w-full bg-green-600 mb-0.5 mt-0.5">mierda</div>
+          </div>
         </div>
       </div>
 
@@ -21,7 +26,12 @@
 
 <script>
 export default {
-  name: "miHeader"
+  name: "miHeader",
+  data(){
+    return{
+      verMenu: false,
+    };
+  }
 }
 </script>
 
@@ -39,6 +49,19 @@ export default {
   #nav a:hover{
     color: white;
     font-size: 18px;
+  }
+
+  .menu-item {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .submenu-item{
+    position: absolute;
+    height: 20px;
+    width: 100%;
+    margin-top: 4rem ;
   }
 
 </style>
