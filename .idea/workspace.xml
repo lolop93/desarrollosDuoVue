@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf9c1db4-93d5-4e1b-8754-766625456c17" name="Default Changelist" comment="cuerpo fuera">
+    <list default="true" id="bf9c1db4-93d5-4e1b-8754-766625456c17" name="Default Changelist" comment="arreglado tu desastre chapucilla">
+      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/fonts/CreteRound-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/jaime.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/manu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/vue_app/src/assets/pattern 2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/components/homepage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/components/miFooter.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/components/miFooter.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue/vue_app/src/components/miHeader.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/components/miHeader.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/views/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/views/Contact.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/views/Contact.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/views/Portfolio.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/views/Portfolio.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/views/Services.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/views/Services.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue_app/src/views/Team.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue_app/src/views/Team.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +74,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jaime\PhpstormProjects\desarrollosDuoVue\vue\vue_app\src\assets" />
+      <recent name="C:\Users\jaime\PhpstormProjects\desarrollosDuoVue\vue\vue_app\src\assets\fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jaime\PhpstormProjects\desarrollosDuoVue\vue\vue_app\src\components" />
@@ -88,7 +102,8 @@
       <workItem from="1643935271058" duration="2515000" />
       <workItem from="1643976907748" duration="1989000" />
       <workItem from="1644060026089" duration="3127000" />
-      <workItem from="1644140631703" duration="1712000" />
+      <workItem from="1644140631703" duration="2093000" />
+      <workItem from="1644198995798" duration="7462000" />
     </task>
     <task id="LOCAL-00001" summary="cosas">
       <created>1643920088190</created>
@@ -111,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644060203118</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="arreglado tu desastre chapucilla">
+      <created>1644161158032</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644161158032</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +159,8 @@
     <MESSAGE value="cosas" />
     <MESSAGE value="template homepage creado" />
     <MESSAGE value="cuerpo fuera" />
-    <option name="LAST_COMMIT_MESSAGE" value="cuerpo fuera" />
+    <MESSAGE value="arreglado tu desastre chapucilla" />
+    <option name="LAST_COMMIT_MESSAGE" value="arreglado tu desastre chapucilla" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

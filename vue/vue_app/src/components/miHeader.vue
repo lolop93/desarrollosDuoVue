@@ -1,5 +1,5 @@
 <template>
-  <div class="flex w-full bg-duogreen">
+  <div class="flex w-full bg-duogreen shadow-2xl">
     <div class="flex w-1/2 justify-start content-center my-5 mx-10">
       <img class="logo" src="../assets/lohohorizontal.png" alt="logo">
     </div>

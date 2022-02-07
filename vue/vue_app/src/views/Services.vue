@@ -1,5 +1,8 @@
 <template>
-  <div>Servicios</div>
+  <div class="cuerop pt-12">
+    <h1 class="text-8xl" style="font-family: Crete">Servicios</h1>
+
+  </div>
 </template>
 
 <script>

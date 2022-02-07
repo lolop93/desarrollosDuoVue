@@ -24,6 +24,11 @@
 </template>
 
 <style>
+@font-face {
+  font-family: "Crete";
+  src: local("Crete"),
+  url(./assets/fonts/CreteRound-Regular.ttf) format("truetype");
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
