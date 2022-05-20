@@ -15,7 +15,7 @@
     <miFooter v-if="verFooter"></miFooter>
 
 
-    </div>
+  </div>
 
 
 

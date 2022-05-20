@@ -22,7 +22,7 @@
     "@vue/cli-plugin-router": "^4.5.15",
     "@vue/cli-service": "~4.5.0",
     "@vue/compiler-sfc": "^3.0.0",
-    "babel-eslint": "^10.1.0",
+    "@babel/eslint-parser": "^7.5.4",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^7.0.0",
     "vue-cli-plugin-tailwind": "~2.2.18"
@@ -37,7 +37,8 @@
       "eslint:recommended"
     ],
     "parserOptions": {
-      "parser": "babel-eslint"
+      "parser": "@babel/eslint-parser",
+      "requireConfigFile": false
     },
     "rules": {}
   },
